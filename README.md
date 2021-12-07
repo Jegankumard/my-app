@@ -1,3 +1,3 @@
 # my-app
 
-edited for personal use
+edited 
